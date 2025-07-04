@@ -1,0 +1,40 @@
+{
+  "title": "Blog do Gato Maconhado",
+  "theme": {
+    "primary": "#131D4F",
+    "secondary": [
+      "#EFE4D2",
+      "#254D70",
+      "#131D4F",
+      "#954C2E"
+    ],
+    "font": "Inter, Roboto, Arial, sans-serif"
+  },
+  "navigation": [
+    {
+      "label": "Main",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "children": [
+        {
+          "label": "Inteligência Artificial & Concursos",
+          "href": "/blog/ia-concursos"
+        },
+        {
+          "label": "Técnicas de Estudo",
+          "href": "/blog/tecnicas-estudo"
+        },
+        {
+          "label": "Abobrinha",
+          "href": "/blog/abobrinha"
+        }
+      ]
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ]
+}
