@@ -53,6 +53,19 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Blog",
+        "groups": [
+          {
+            "group": "Posts",
+            "pages": [
+              "docs/blog/abobrinha",
+              "docs/blog/ia-concursos",
+              "docs/blog/tecnicas-estudo"
+            ]
+          }
+        ]
       }
     ],
     "global": {
